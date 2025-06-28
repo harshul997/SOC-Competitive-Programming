@@ -4,6 +4,7 @@
 - Read Chapters 11, 12, 13, 14 from [Competitive Programmer's Handbook](https://github.com/harshul997/SOC-Competitive-Programming/blob/main/Resources/Competitive%20Programmers%20Handbook%20-%20Antti%20Laaksonen.pdf).
 - Go through Sections 7.1, 7.2, and 10.1 from [Guide to Competitive Programming](https://github.com/harshul997/SOC-Competitive-Programming/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf).
 - (Optional) Read Chapter 20 from [Introduction to Algorithms](https://github.com/harshul997/SOC-Competitive-Programming/blob/main/Resources/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf).
+- (Optional) Read relevant sections from [DSA Course](https://www.cse.iitb.ac.in/~akg/courses/2024-ds/).
 
 
 ### ✅ Questions to be submitted:
