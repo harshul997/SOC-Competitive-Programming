@@ -4,7 +4,7 @@
 - Read Chapters 11, 12, 13, 14 from [Competitive Programmer's Handbook](https://github.com/harshul997/SOC-Competitive-Programming/blob/main/Resources/Competitive%20Programmers%20Handbook%20-%20Antti%20Laaksonen.pdf).
 - Go through Sections 7.1, 7.2, and 10.1 from [Guide to Competitive Programming](https://github.com/harshul997/SOC-Competitive-Programming/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf).
 - (Optional) Read Chapter 20 from [Introduction to Algorithms](https://github.com/harshul997/SOC-Competitive-Programming/blob/main/Resources/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf).
-- Week‑11 and Week‑12 material from [CS213 – Data Structures, IIT Bombay](https://www.cse.iitb.ac.in/~mandyam/CS213/index.html).
+
 
 ### ✅ Questions to be submitted:
 - [Longest Regular Bracket Sequence](https://codeforces.com/problemset/problem/5/C) (w5_q1.cpp)  
